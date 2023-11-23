@@ -24,7 +24,7 @@ body {
   min-height: 100vh;
   background: linear-gradient(250.6deg, #6a70ff 7.3%, rgba(255, 53, 53, 0.4) 98.63%);
   background-size: 400% 400%;
-  animation: gradient 12s ease infinite;
+  /* animation: gradient 12s ease infinite; */
 }
 
 @keyframes gradient {
